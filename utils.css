@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+.bg-black{
+    background: black;
+}
+.mx-auto{
+    margin:auto;
+}
+
+.flex{
+display: flex;
+width:300px;
+
+}
+.operator{
+    background-color: #edaf0f;
+}
+.num{
+    background-color: rgb(78, 78, 77,1);
+    color:#fff;
+}
+.spe{
+ background-color: #bdbdbd;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+    justify-content: center;
+}
